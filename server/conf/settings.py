@@ -33,7 +33,9 @@ from evennia.settings_default import *
 
 # This is the name of your game. Make it catchy!
 SERVERNAME = "WorldsgateMUSH"
-
+# Short one-sentence blurb describing your game. Shown under the title
+# on the website and could be used in online listings of your game etc.
+GAME_SLOGAN = "The center of all universes. Adventure awaits!"
 
 ######################################################################
 # Settings given in secret_settings.py override those in this file.
